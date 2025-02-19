@@ -1,0 +1,14 @@
+# requirements.txt
+
+# List of dependencies for the Ice Cream Parlor application
+
+# No external libraries are required for SQLite as it is part of Python's standard library.
+# This file is included for future use if additional dependencies are needed.
+
+# Example: If you plan to use an ORM like SQLAlchemy in the future, you can add it here.
+# sqlalchemy>=2.0.0
+
+# Example: If you plan to add a web interface using Flask, you can add it here.
+# flask>=2.0.0
+
+# For now, the file is empty because no external dependencies are required.
